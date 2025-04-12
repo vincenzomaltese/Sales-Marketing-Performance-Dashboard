@@ -64,7 +64,7 @@ This repository provides multiple ways to explore the Sales & Marketing dashboar
     *   **Best for:** Quickly viewing the dashboard's key visuals and insights without installing Power BI.
     *   **Requires:** A PDF reader.
     *   **Steps:**
-        1.  Download the `YourReportName.pdf` file from this repository. *(Remember to replace `YourReportName.pdf` with your actual PDF file name)*
+        1.  Download the `Sales&Marketing.pdf` file from this repository. 
         2.  Open the file using any PDF viewer.
     *   **Note:** This is a static export and is not interactive.
 
@@ -73,7 +73,7 @@ This repository provides multiple ways to explore the Sales & Marketing dashboar
     *   **Requires:** Microsoft Power BI Desktop (available for free [here](https://powerbi.microsoft.com/en-us/desktop/)).
     *   **Steps:**
         1.  Ensure you have Power BI Desktop installed.
-        2.  Download the `YourReportName.pbix` file from this repository. *(Remember to replace `YourReportName.pbix` with your actual PBIX file name)*
+        2.  Download the `Sales&Marketing.pbix` file from this repository.
         3.  Open the `.pbix` file using Power BI Desktop.
         4.  Interact with the report:
             *   Use the **Year slicer** at the top to filter data (2022, 2023, 2024).
@@ -97,9 +97,6 @@ This repository provides multiple ways to explore the Sales & Marketing dashboar
 *   Include A/B testing results for marketing campaigns.
 *   Develop more granular cost allocation models.
 
-## Author
-
-*   [Il tuo Nome/Contatto - Your Name/Contact Info]
 
 ## License
 
