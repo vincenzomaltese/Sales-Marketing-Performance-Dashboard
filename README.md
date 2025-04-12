@@ -103,4 +103,4 @@ This repository provides multiple ways to explore the Sales & Marketing dashboar
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (assuming you choose MIT).
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
