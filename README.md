@@ -61,7 +61,6 @@ This tab allows for a deep dive into the performance of individual products.
     *   Total Revenue, Cost, Profit, Average Conversion Rate, Views.
     *   Year-over-Year (YoY) growth calculations (vs PY).
     *   Previous period comparisons (e.g., Revenue PM).
-    *   Percentage calculations for segment analysis (e.g., % Revenue by Channel, % Revenue by Lead Source).
 
 ## How to Use This Repository
 
