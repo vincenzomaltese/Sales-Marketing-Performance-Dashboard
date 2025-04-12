@@ -55,9 +55,13 @@ This tab allows for a deep dive into the performance of individual products.
 ## Technical Details
 
 *   **Tool:** Microsoft Power BI Desktop
-*   **Data Sources:** (Assumed - Specify if known) Likely sourced from relational databases (Sales DB, CRM), flat files (CSVs, Excel), web analytics platforms, and marketing automation tools.
-*   **Data Modeling:** A relational data model potentially following a star schema, connecting fact tables (e.g., Sales Transactions, Website Sessions) with dimension tables (e.g., Date, Product, Customer, Region, Campaign, Lead Source).
-*   **Key DAX Measures:** Calculations for Total Revenue, Cost, Profit, Avg Conversion Rate, Views, YoY Growth Rates (vs PY), Previous Month Revenue (Revenue PM), and percentage contributions for various segments.
+*   **Data Source:** The primary data source for this dashboard is the `sales_data.csv` file included in this repository.
+*   **Data Modeling:** A relational data model likely based on a star schema approach was implemented within Power BI, connecting fact tables (derived from sales transactions) with relevant dimension tables (Date, Product, Region, Campaign, Lead Source etc.) to enable efficient slicing and dicing of data.
+*   **Key DAX Measures:** Utilized Data Analysis Expressions (DAX) to create crucial calculated measures, including:
+    *   Total Revenue, Cost, Profit, Average Conversion Rate, Views.
+    *   Year-over-Year (YoY) growth calculations (vs PY).
+    *   Previous period comparisons (e.g., Revenue PM).
+    *   Percentage calculations for segment analysis (e.g., % Revenue by Channel, % Revenue by Lead Source).
 
 ## How to Use This Repository
 
