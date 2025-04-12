@@ -39,7 +39,8 @@ This tab provides a high-level executive summary of the overall Sales and Market
 *   **Revenue by Marketing Campaign:** Assesses the performance and ROI of different marketing initiatives.
 *   **Revenue by Region:** Highlights the geographical distribution of revenue.
 *   **Revenue & Session by Country:** Provides a ranked view of country-level performance based on sessions and revenue, complemented by a world map visualization.
-
+  
+![Dashboard Overview](https://github.com/vincenzomaltese/Sales-Marketing-Performance-Dashboard/blob/main/images/Overview.jpg)
 ### 2. Product Details Tab
 
 This tab allows for a deep dive into the performance of individual products.
@@ -48,6 +49,8 @@ This tab allows for a deep dive into the performance of individual products.
 *   **Metrics:** Includes Product ID, Name (with image), Rating, Scoring, Stock levels, Number of Invoices, Price, Views, Revenue, Cost, and Profit per product.
 *   **Trend Sparklines:** Embedded line charts visualizing the monthly trend for Revenue, Cost, and Profit for each product within the selected year.
 *   **Search Functionality:** Enables users to quickly find specific products.
+
+![Product Details View](https://github.com/vincenzomaltese/Sales-Marketing-Performance-Dashboard/blob/main/images/product_details.jpg)
 
 ## Technical Details
 
