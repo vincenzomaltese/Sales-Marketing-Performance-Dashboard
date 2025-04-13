@@ -56,7 +56,7 @@ This tab allows for a deep dive into the performance of individual products.
 
 *   **Tool:** Microsoft Power BI Desktop
 *   **Data Source:** The primary data source for this dashboard is the `sales_data.csv` file included in this repository.
-*   **Data Modeling:** A relational data model likely based on a star schema approach was implemented within Power BI, connecting fact tables (derived from sales transactions) with relevant dimension tables (Date, Product, Region, Campaign, Lead Source etc.) to enable efficient slicing and dicing of data.
+*   **Data Modeling:** Implemented a **Star Schema** data model within Power BI to optimize analysis and reporting. The model features a central fact table (`factSalesData`) containing transactional metrics and foreign keys, connected via one-to-many relationships to surrounding dimension tables including `dimProduct`, `dimCustomer`, `dimMarketingCampaign`, `dimChannel`, `dimLeadSource`, `dimCountry`, `dimSalesRep`, and `Calendar`. This structure enables efficient data slicing, dicing, and complex queries across various business dimensions.
 *   **Key DAX Measures:** Utilized Data Analysis Expressions (DAX) to create crucial calculated measures, including:
     *   Total Revenue, Cost, Profit, Average Conversion Rate, Views.
     *   Year-over-Year (YoY) growth calculations (vs PY).
