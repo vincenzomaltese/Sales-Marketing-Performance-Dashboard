@@ -95,15 +95,3 @@ This repository provides multiple ways to explore the Sales & Marketing dashboar
         1.  Download the `sales_data.csv` file from this repository.
         2.  Open or import the file using your preferred tool.
 
-## Potential Enhancements
-
-*   Incorporate customer segmentation analysis (e.g., RFM).
-*   Add predictive forecasting for key metrics.
-*   Integrate sentiment analysis based on product ratings or reviews.
-*   Include A/B testing results for marketing campaigns.
-*   Develop more granular cost allocation models.
-
-
-## License
-
-This project is licensed under the MIT License.
